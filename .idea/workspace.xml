@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b51199ce-2b1e-4dac-a93e-58edc81b388f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bcoin.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bcoin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/block.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/coin.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/coin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/entity.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/entity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fireball.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fireball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/fireflower.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/fireflower.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/flag.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/flag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/floor.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/floor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/koopa.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/koopa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/levels/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/levels/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/levels/11tunnel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/levels/11tunnel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/levels/level.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/levels/level.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/mushroom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mushroom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/pipe.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/pipe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/prop.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/prop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/rubble.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/rubble.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/sprite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/star.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/star.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/enemy.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/enemy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/enemyr.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/enemyr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/items.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/items.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/player.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/player.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/playerl.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/playerl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprites/tiles.png" beforeDir="false" afterPath="$PROJECT_DIR$/sprites/tiles.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/prop.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/sprite.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/star.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/goomba.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bcoin.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/block.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-671" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/koopa.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/player.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="147" column="40" lean-forward="true" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/entity.js" />
+        <option value="$PROJECT_DIR$/js/player.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/mario.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="49" />
+    <option name="y" value="25" />
+    <option name="width" value="1631" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mario" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mario" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mario" type="462c0819:PsiDirectoryNode" />
+              <item name="sprites" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b51199ce-2b1e-4dac-a93e-58edc81b388f" name="Default Changelist" comment="" />
+      <created>1557746102749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557746102749</updated>
+      <workItem from="1557746104799" duration="1424000" />
+      <workItem from="1560437680029" duration="564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="49" y="25" width="1631" height="1025" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/outline.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/util.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/resources.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/entity.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="109" column="13" lean-forward="true" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="147" column="40" lean-forward="true" selection-start-line="147" selection-start-column="40" selection-end-line="147" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/koopa.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/prop.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sprite.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/star.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/goomba.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bcoin.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sprites/player (copie).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/block.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671" />
+      </provider>
+    </entry>
+  </component>
+</project>
